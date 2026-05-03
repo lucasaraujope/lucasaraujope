@@ -68,7 +68,7 @@ I also create content and share knowledge on **software development, SaaS, and t
 ## 📊 GitHub Stats
 
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasaraujope&show_icons=true)](https://github.com/lucasaraujope/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasaraujope)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ---
