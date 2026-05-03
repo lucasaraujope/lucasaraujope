@@ -26,6 +26,27 @@ I also create content and share knowledge on **software development, SaaS, and t
 
 ---
 
+## 📊 GitHub Stats
+
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats-salesp07.vercel.app/api?username=lucasaraujope&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+  <img 
+  align="left" 
+  alt="GitHub Stats" 
+  height="200" 
+  src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=lucasaraujope&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+/>
+
+<br clear="both"/>
+
+
+
 ## 🧠 What I do
 
 -   🏗️ SaaS & High-scale systems
@@ -65,38 +86,19 @@ I also create content and share knowledge on **software development, SaaS, and t
 
 ---
 
-## 📊 GitHub Stats
 
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats-salesp07.vercel.app/api?username=lucasaraujope&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?    username=lucasaraujope&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
-
-
----
-
-<div>
 ## 🚀 Philosophy
 
 > _"Code is not just about solving problems.  
 > It's about building solutions that scale, last, and generate real value."_
 
 ---
-</div>
 
 ⭐ If you like my work, consider starring a repository  
 🤝 Always open to collaborations, partnerships, and cool ideas
+
+
+
+---
+
