@@ -81,7 +81,7 @@ I also create content and share knowledge on **software development, SaaS, and t
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=lucasaraujope&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?    username=lucasaraujope&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
@@ -91,9 +91,10 @@ I also create content and share knowledge on **software development, SaaS, and t
 
 ## 🚀 Philosophy
 
+<p>
 > _"Code is not just about solving problems.  
 > It's about building solutions that scale, last, and generate real value."_
-
+</p>
 ---
 
 ⭐ If you like my work, consider starring a repository  
